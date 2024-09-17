@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onyacang.github.io/sitemap.html.gz
+Sitemap: https://onyacang.github.io/app/sitemap.html.gz
+Sitemap: https://onyacang.github.io/assets/sitemap.html.gz
+Sitemap: https://onyacang.github.io/css/sitemap.html.gz
+Sitemap: https://onyacang.github.io/includes/sitemap.html.gz
+Sitemap: https://onyacang.github.io/item/sitemap.html.gz
+Sitemap: https://onyacang.github.io/src/sitemap.html.gz
